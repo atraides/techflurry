@@ -1,0 +1,5 @@
+{
+  "python.venvFolders": [".venv"],
+  "python.terminal.activateEnvironment": true,
+  "python.pythonPath": ".venv/bin/python3",
+}
